@@ -10,7 +10,7 @@ function setup() {
   movingRect.debug = true;
 
   f3 =createSprite(300,220,40,40);
-  f3.shapeColor  = "green"
+  f3.shapeColor  = "pink"
   f3.debug = true;
 }
 
